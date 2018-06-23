@@ -39,8 +39,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-1.I never learn swift before, so I have to start learning swift from beginning in a short time.
-2.When I try to develop the UI of the app, I need to use photoshop, which looks like is not a computer science field.
+* I never learn swift before, so I have to start learning swift from beginning in a short time.
+* When I try to develop the UI of the app, I need to use photoshop, which looks like is not a computer science field.
 
 ## License
 
