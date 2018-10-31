@@ -2,7 +2,7 @@
 
 **SmarTips** is a tip calculator application for iOS.
 
-Submitted by: **Jie Lan**
+Submitted by: **Jie Lan/ Jinyan Lin**
 
 Time spent: **30** hours spent in total
 
